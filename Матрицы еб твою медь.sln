@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Матрицы еб твою медь", "Матрицы еб твою медь\Матрицы еб твою медь.csproj", "{C942A8FF-6061-44CB-934C-C0188BB650A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{C35D5A18-A294-4CD0-BF57-946C8A2BD53A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C942A8FF-6061-44CB-934C-C0188BB650A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C942A8FF-6061-44CB-934C-C0188BB650A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C942A8FF-6061-44CB-934C-C0188BB650A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C942A8FF-6061-44CB-934C-C0188BB650A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C35D5A18-A294-4CD0-BF57-946C8A2BD53A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C35D5A18-A294-4CD0-BF57-946C8A2BD53A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C35D5A18-A294-4CD0-BF57-946C8A2BD53A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C35D5A18-A294-4CD0-BF57-946C8A2BD53A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62276079-A678-4ACB-99A8-47C7FEFB557C}
+	EndGlobalSection
+EndGlobal
