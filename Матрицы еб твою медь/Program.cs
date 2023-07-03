@@ -29,6 +29,7 @@ namespace Матрицы_еб_твою_медь
                     Console.Clear();
                     double opr = Class.Oprfinding(MatrixEnter());
                     Console.WriteLine("Определитель матрицы: " + opr);
+
                 }
                 else if (ok == "4")
                 {
